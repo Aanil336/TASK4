@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Notes App</string>
+        <string name="action_add">Add Note</string>
+        <string name="action_delete">Delete Note</string>
+        <string name="hint_note_name">Note Name</string>
+        <string name="hint_note_content">Note Content</string>
+        <string name="save_note">Save Note</string>
+        <string name="empty_warning">Please enter a value.</string>
+</resources>
